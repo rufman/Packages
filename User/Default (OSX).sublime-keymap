@@ -1,0 +1,15 @@
+[
+/* reg replace */
+{ "keys": ["super+alt+t"], "command": "reg_replace", "args": {"replacements": ["remove_trailing_spaces"]}},
+{ "keys": ["super+alt+e"], "command": "reg_replace", "args": {"replacements": ["remove_empty_lines"]}},
+{ "keys": ["super+alt+c"], "command": "reg_replace", "args": {"replacements": ["remove_console_log"]}},
+
+/* duplicate current line */
+{ "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+
+/* remove current line */
+{ "keys": ["ctrl+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete line.sublime-macro"}},
+
+/* copy current filepath to clipboard */
+{ "keys": ["super+alt+p"], "command": "copy_path" }
+]
