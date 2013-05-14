@@ -2,12 +2,16 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Alignment",
+		"BracketHighlighter",
 		"EditorConfig",
+		"Git",
 		"GitGutter",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"sublime-jslint",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Soda"
 	]
