@@ -8,6 +8,8 @@
 	],
 	"open_files_in_new_window": false,
 	"soda_classic_tabs": true,
+	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }

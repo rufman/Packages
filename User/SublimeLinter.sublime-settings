@@ -34,8 +34,10 @@
         "zero-units": false
     },
 
+    "pep8":true,
     "pep8_ignore":
     [
-        "E501"
+        "E501",
+        "E261"
     ]
 }

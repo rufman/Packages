@@ -13,6 +13,8 @@
 		"sublime-jslint",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeREPL",
+		"SublimeRope",
 		"Theme - Soda"
 	]
 }
