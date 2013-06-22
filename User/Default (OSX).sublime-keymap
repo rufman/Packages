@@ -11,5 +11,8 @@
 { "keys": ["ctrl+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete line.sublime-macro"}},
 
 /* copy current filepath to clipboard */
-{ "keys": ["super+alt+p"], "command": "copy_path" }
+{ "keys": ["super+alt+p"], "command": "copy_path" },
+
+/* minimap keymapping */
+{ "keys": ["super+alt+m"], "command": "toggle_minimap" }
 ]
