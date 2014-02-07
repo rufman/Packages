@@ -3,7 +3,9 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AngularJS",
 		"BracketHighlighter",
+		"CoffeeScript",
 		"EditorConfig",
 		"Git",
 		"GitGutter",

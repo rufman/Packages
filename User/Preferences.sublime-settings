@@ -9,7 +9,31 @@
 	"open_files_in_new_window": false,
 	"soda_classic_tabs": true,
 	"tab_size": 4,
+	"tag_mode":
+	{
+		"cfml":
+		[
+			"HTML+CFML",
+			"ColdFusion",
+			"ColdFusionCFC"
+		],
+		"html":
+		[
+			"HTML",
+			"HTML 5",
+			"PHP"
+		],
+		"xhtml":
+		[
+			"XML"
+		]
+	},
+	"tag_scope_exclude":
+	[
+		"string",
+		"comment"
+	],
+	"tag_style": "tag",
 	"theme": "Soda Light.sublime-theme",
-	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
